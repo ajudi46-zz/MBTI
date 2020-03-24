@@ -1,0 +1,6 @@
+*** N/S TEST SET CLASSIFICATION (POSTS) ***
+Total posts classified: 21166
+Accuracy: 0.5257015969006897
+Confusion matrix: 
+[[4044, 5389],
+ [4650, 7083]]

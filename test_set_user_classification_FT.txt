@@ -1,0 +1,6 @@
+*** F/T TEST SET CLASSIFICATION (USERS) ***
+Total posts classified: 463
+Accuracy: 0.6976241900647948
+Confusion matrix: 
+[[134,  98],
+ [ 42, 189]]
